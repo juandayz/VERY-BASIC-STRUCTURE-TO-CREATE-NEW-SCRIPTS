@@ -53,8 +53,9 @@ systemchat "Crowbar broken";
 
 ```
 //So a basic structure is:
-
+```ruby
 private [""];
 _define_locals_variables = "";
 if () exitWith {};
 if () then {};
+```
