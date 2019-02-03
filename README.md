@@ -1,5 +1,8 @@
 # VERY-BASIC-STRUCTURE-TO-CREATE-NEW-SCRIPTS
 
+PLEASE DONANTE: https://github.com/juandayz/VERY-BASIC-STRUCTURE-TO-CREATE-NEW-SCRIPTS/blob/master/DONATION.md
+
+
 ```ruby
 
 //1-Private section where all locals variables must be writed to prevent errors about undefined variable
